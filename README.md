@@ -159,8 +159,6 @@ I build full-stack web systems with a focus on translating real business require
 
 </div>
 
-> Activate by adding the [Platane/snk](https://github.com/Platane/snk) GitHub Action to your `Fathi-Farhan/Fathi-Farhan` profile repo. It auto-generates the SVG above on a schedule.
-
 <br/>
 
 ## 🤝 Connect
