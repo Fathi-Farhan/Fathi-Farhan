@@ -1,229 +1,193 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Fathi%20Farhan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Tech%20Enthusiast%20•%20Builder&descAlignY=58&descSize=18" width="100%"/>
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=220&section=header&text=Muhammad%20Fathi%20Farhan&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Information%20Systems%20%40%20Universitas%20Gunadarma&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="banner"/>
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Farhan+%F0%9F%91%8B;Software+Engineering+Student;Tech+%26+Business+Enthusiast;Always+learning%2C+always+building" alt="Typing SVG" />
+<!-- Typing animation -->
+<a href="https://github.com/Fathi-Farhan">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=560&lines=Building+web+systems+that+ship.;Next.js+%E2%80%A2+Laravel+%E2%80%A2+PostgreSQL;Bridging+code+and+business+requirements." alt="typing"/>
 </a>
 
 <br/>
 
-<!-- Profile Visitors & Followers -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Fathi-Farhan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Fathi-Farhan?label=Followers&style=social" alt="followers" />
-  <img src="https://img.shields.io/github/stars/Fathi-Farhan?label=Stars&style=social" alt="stars" />
-</p>
+<!-- Profile signals -->
+<a href="https://github.com/Fathi-Farhan">
+  <img src="https://komarev.com/ghpvc/?username=Fathi-Farhan&label=Profile%20views&color=0e4429&style=flat-square" alt="views"/>
+</a>
+<a href="https://github.com/Fathi-Farhan?tab=followers">
+  <img src="https://img.shields.io/github/followers/Fathi-Farhan?label=Followers&style=flat-square&color=0e4429&labelColor=161b22" alt="followers"/>
+</a>
+<a href="https://github.com/Fathi-Farhan?tab=repositories">
+  <img src="https://img.shields.io/github/stars/Fathi-Farhan?label=Stars&style=flat-square&color=0e4429&labelColor=161b22" alt="stars"/>
+</a>
 
 </div>
 
----
+<br/>
 
-## 🧑‍💻 About Me
+## ⚡ Whoami
 
-```yaml
-name: Muhammad Fathi Farhan
-location: Indonesia 🇮🇩
-education: Gunadarma University (2nd Year)
-focus: Software Engineering × Business
-current_role: Student & Aspiring Engineer
-languages: [Bahasa Indonesia, English]
-fun_fact: I bridge tech and business — building products that ship and sell.
+```ts
+const farhan = {
+  location:  "East Jakarta, Indonesia 🇮🇩",
+  studying:  "Information Systems @ Universitas Gunadarma",
+  building:  ["Next.js apps", "Laravel APIs", "PostgreSQL schemas"],
+  exploring: ["system design", "requirements engineering", "clean architecture"],
+  motto:     "ship the system, not just the code.",
+};
 ```
 
-- 🎓 **Second-year student** at Gunadarma University, blending **software engineering** with a real interest in **business strategy**
-- 🌱 Currently leveling up in **AI**, **UX/UI design**, **cloud computing**, and **modern digital marketing**
-- 💬 Ask me about **web development**, **sales strategy**, or how to grow a personal brand in tech
-- 🤝 Open to **collaborations**, **freelance work**, and **internship opportunities**
-- 📫 Reach me: **fthfarhan12@gmail.com**
+I build full-stack web systems with a focus on translating real business requirements into working software. Lately I'm into the *unsexy* parts of engineering — data modeling, ERDs, architecture docs — the work that decides whether a product survives its second sprint.
 
----
-
-## 🚀 What I'm Working On
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔭 Current Focus
-- Building full-stack web apps with **Laravel** + **React**
-- Mastering **digital marketing** for software products
-- Exploring **AI/ML** integrations in real-world apps
-- Sharpening **UX/UI** with design thinking principles
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 2026 Goals
-- [ ] Ship 5+ production-grade open-source projects
-- [ ] Land an impactful software engineering internship
-- [ ] Contribute meaningfully to OSS communities
-- [ ] Grow personal brand to 10k+ across platforms
-
-</td>
-</tr>
-</table>
-
----
+<br/>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<table>
+<tr>
+<td valign="top" width="33%">
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-F5788D?style=for-the-badge&logo=chartdotjs&logoColor=white)
+###### Languages
+<p align="left">
+<img src="https://skillicons.dev/icons?i=ts,js,py,php,html,css" />
+</p>
 
-### Data & Backend
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+</td>
+<td valign="top" width="33%">
 
-### Tools & Design
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+###### Frameworks
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nextjs,react,laravel,tailwind,bootstrap" />
+</p>
 
-### Hardware & Other
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+</td>
+<td valign="top" width="33%">
+
+###### Databases
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,elasticsearch,firebase" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+
+###### Tools & DevOps
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,postman" />
+</p>
+
+</td>
+<td valign="top" width="33%">
+
+###### Design & Analysis
+<p align="left">
+<img src="https://skillicons.dev/icons?i=figma,ps,ae,pr" />
+</p>
+
+</td>
+<td valign="top" width="33%">
+
+###### Project Management
+<p align="left">
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<br/>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- Stats Cards Side by Side -->
-<a href="https://github.com/Fathi-Farhan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fathi-Farhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fathi-Farhan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<!-- Profile summary cards (reliable mirror) -->
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fathi-Farhan&theme=github_dark" alt="profile summary"/>
 </a>
 
 <br/><br/>
 
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=Fathi-Farhan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fathi-Farhan&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="Activity Graph"/>
-
-</div>
-
----
-
-## 🏆 Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Fathi-Farhan&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=8&margin-h=8" alt="trophies"/>
-</div>
-
----
-
-## 📈 Live Contribution Activity
-
-<div align="center">
-
-### ⚡ Top Contributed Repos (Last Year)
-<img src="https://github-contributor-stats.vercel.app/api?username=Fathi-Farhan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos"/>
-
-<br/><br/>
-
-### 📌 Pinned Repositories
-<a href="https://github.com/Fathi-Farhan?tab=repositories">
-  <img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories"/>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fathi-Farhan&theme=github_dark" alt="stats"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fathi-Farhan&theme=github_dark" alt="most commit langs"/>
 </a>
 
+<br/>
+
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fathi-Farhan&theme=github_dark" alt="repos per lang"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fathi-Farhan&theme=github_dark&utcOffset=7" alt="productive time"/>
+</a>
+
+<br/><br/>
+
+<!-- Streak stats: alternative mirror that still works -->
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Fathi-Farhan&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="streak"/>
+
 </div>
 
----
+<br/>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fathi-Farhan&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=1f6feb" width="100%" alt="activity graph"/>
+
+</div>
+
+<br/>
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Fathi-Farhan/Fathi-Farhan/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fathi-Farhan/Fathi-Farhan/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fathi-Farhan/Fathi-Farhan/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation eating contributions" src="https://raw.githubusercontent.com/Fathi-Farhan/Fathi-Farhan/output/github-contribution-grid-snake.svg"/>
+</picture>
+
 </div>
 
-> 💡 *To activate the snake animation, add the [Snake GitHub Action](https://github.com/Platane/snk) to your profile repo.*
+> Activate by adding the [Platane/snk](https://github.com/Platane/snk) GitHub Action to your `Fathi-Farhan/Fathi-Farhan` profile repo. It auto-generates the SVG above on a schedule.
 
----
+<br/>
 
-## ✍️ Quote of the Day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
----
-
-## 🌐 Connect With Me
+## 🤝 Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/muhammad-fathi-farhan-a136b628b">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://bit.ly/LinkedIn-FathiFarhan">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/farhan.muhammadz">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://tiktok.com/@faarhann._">
-  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+<a href="https://bit.ly/Portfolio-FathiFarhan-October2025">
+  <img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio"/>
 </a>
 <a href="mailto:fthfarhan12@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
 </a>
-<a href="https://bit.ly/Portfolio-MuhammadFathiFarhan">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+<a href="https://instagram.com/farhan.muhammadz">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
 </a>
 
 </div>
 
----
-
-## 💡 Let's Build Something Together
+<br/>
 
 <div align="center">
 
-> *"Code is the bridge between ideas and impact — I'm here to build both."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer" width="100%" alt="footer"/>
 
-📬 **Have a project, idea, or opportunity?** I'm always open to chat — drop me a line at **fthfarhan12@gmail.com** or shoot me a DM on LinkedIn.
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
-<sub>⭐ From <a href="https://github.com/Fathi-Farhan">Fathi-Farhan</a> — Thanks for stopping by!</sub>
+<sub>⭐ Thanks for stopping by — feel free to explore the repos.</sub>
 
 </div>
