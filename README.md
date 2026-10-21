@@ -19,22 +19,9 @@ I build full-stack web systems with a focus on translating real business require
 
 ## Activity
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fathi-Farhan&theme=github_dark">
-    <img height="180" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fathi-Farhan&theme=github">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fathi-Farhan&theme=github_dark">
-    <img height="180" alt="Most committed languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fathi-Farhan&theme=github">
-  </picture>
-</p>
+<img alt="contribution snake" src="https://raw.githubusercontent.com/Fathi-Farhan/Fathi-Farhan/output/snake.svg" width="100%" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fathi-Farhan/Fathi-Farhan/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fathi-Farhan/Fathi-Farhan/output/snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Fathi-Farhan/Fathi-Farhan/output/snake.svg" width="100%" />
-</picture>
+<img alt="contributions by month and by weekday" src="https://raw.githubusercontent.com/Fathi-Farhan/Fathi-Farhan/output/activity.svg" width="100%" />
 
 ## Contact
 
