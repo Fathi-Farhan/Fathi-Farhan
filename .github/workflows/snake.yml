@@ -14,13 +14,20 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
-      - name: generate snake game from contribution graph
+      - name: checkout (for the card builder script)
+        uses: actions/checkout@v4
+
+      - name: generate the snake path from the contribution graph
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Fathi-Farhan
           outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
+            raw/snake.svg?color_snake=#F2B544&color_dots=#1B3B5E,#245C94,#3585CF,#6DB6F2,#D6E8FA
+
+      - name: build the snake card and the activity card
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/build_card.py --snake raw/snake.svg --out dist/snake.svg --activity-out dist/activity.svg --user Fathi-Farhan
 
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v4
